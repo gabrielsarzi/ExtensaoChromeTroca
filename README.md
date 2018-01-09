@@ -7,3 +7,14 @@ No nosso caso ela vai substituir a palavra PT por variantes de ladrão, como: m�
 Em breve será adicionado a <b><i>sigla de outros partidos</b></i>. 
 <br><br>
 <b>Lembrando que isso é só uma brincadeira. Sem stress galera</b>
+<br><br><br><br><b>
+<b>Instalação<b>
+<br>
+<ul>
+<li>Baixe o repositorio (Clone or download -> Download ZIP)<br></li>
+<li>Descompacte a pasta <i>ExtensaoChromeTroca</i><br></li>
+<li>Clique no botão Configurações do navegador<br></li>
+<li>Escolha a alternativa Ferramentas<br></li>
+<li>E entre em Extensões<br></li>
+<li>Selecione a pasta descompactada e arraste para a pagina.</li>
+</ul>
