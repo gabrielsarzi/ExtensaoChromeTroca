@@ -1,12 +1,15 @@
 {
     "manifest_version": 2,
     "name": "Governo Ladrão",
-    "description": "Troca a palavra PT por sinonimos de ladrão",
-	"version": "1.0",
+    "description": "Troca siglas de partidos politicos por sinonimos de ladrão",
+	"version": "0.2",
 	"icons": {
 	"128": "128.png"
 	},
-	"author":"Gabriel Sarzi (@gabrielsarzi)",
+    "author":"Gabriel Sarzi (@gabrielsarzi)",
+    "browser_action": {
+		"default_popup": "popup.html"
+     },	
     "content_scripts": [
         {
             "matches": [
